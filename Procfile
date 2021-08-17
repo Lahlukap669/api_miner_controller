@@ -1,1 +1,1 @@
-web: gunicorn app:api_mine_controller
+web: gunicorn app:app
